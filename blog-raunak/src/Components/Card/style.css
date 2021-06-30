@@ -1,0 +1,18 @@
+.card {
+  padding: 20px;
+  border-radius: 20px;
+  text-align: left;
+  width: 90%;
+  margin: 20px auto;
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.card .title {
+  padding: 0 0 20px 0;
+  font-size: 2rem;
+  text-transform: capitalize;
+}
+
+.card .body {
+  font-size: 1.25rem;
+}
